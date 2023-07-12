@@ -1,0 +1,4 @@
+This is a sample file from input
+append file
+
+ Date created Fri Jun 23 2023 11:00:08 GMT+0530 (India Standard Time)
